@@ -34,9 +34,10 @@
 <br/>
 
 <!-- GITHUB STATS -->
+<!-- GITHUB STATS -->
 <div align="center" display="flex">
-    <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MATTECHH&theme=radical"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MATTECHH&theme=graywhite"
     height="170"
   />
 
