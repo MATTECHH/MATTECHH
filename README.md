@@ -17,10 +17,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-monteiro-787874346/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" height="25" />
   </a>
 
   <a href="mailto:devteus.officeti@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" height="25" />
   </a>
 </div>
