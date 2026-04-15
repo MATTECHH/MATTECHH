@@ -61,25 +61,26 @@
   <a href="https://www.linkedin.com/in/mateus-monteiro-787874346/" target="_blank">
     <img
       src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="50"
-      height="50"
-      alt="linkedin"
+      width="52"
+      height="40"
+      alt="linkedin logo"
     />
   </a>
 
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Gmail -->
-  <a href="mailto:devteus.officeti@gmail.com">
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
-      width="50"
-      height="50"
-      alt="gmail"
+      src="https://cdn.simpleicons.org/youtube/FF0000"
+      width="52"
+      height="40"
+      alt="youtube logo"
     />
   </a>
 
 </div>
+
 <br/>
 
 <!-- FOOTER -->
