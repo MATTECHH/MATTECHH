@@ -1,10 +1,21 @@
 <!-- HEADER -->
+!-- HEADER -->
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=F0EDEE"
     width="100%"
   />
 </div>
+
+<br/>
+
+<!-- TYPEWRITER TEXT -->
+<div align="center">
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+my+profile;My+name+is+Mateus+I+have+18+anos"
+  />
+
 
 <br/>
 
