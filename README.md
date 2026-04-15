@@ -57,23 +57,23 @@
 
 <!--- contact --->
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank" style="display:inline-block; margin-right:12px;">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52"
-      height="40"
-      alt="LinkedIn"
-    />
-  </a>
 
-  <a href="mailto:SEUEMAIL@gmail.com" style="display:inline-block;">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="52"
-      height="40"
-      alt="Gmail"
-    />
-  </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="mailto:SEUEMAIL@gmail.com">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
