@@ -37,12 +37,12 @@
 <div align="center">
 
   <img
-  src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark"
-  height="170"
-/>
+    src="https://github-readme-stats.vercel.app/api?username=MATTECHH&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+    height="170"
+  />
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=MATTECHH&theme=dark"
+    src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark"
     height="170"
   />
 
