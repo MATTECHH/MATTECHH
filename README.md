@@ -34,14 +34,7 @@
 <br/>
 
 <!-- GITHUB STATS -->
-<!-- GITHUB STATS -->
 <div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MATTECHH&theme=dark"
-    height="170"
-  />
-
   <img
     src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true"
     height="170"
