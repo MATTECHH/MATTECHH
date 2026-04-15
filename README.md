@@ -55,8 +55,9 @@
   
 <br/>
 
+<!--- contact --->
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank" style="display:inline-block; margin-right:12px;">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
       width="52"
@@ -65,9 +66,7 @@
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:SEUEMAIL@gmail.com" style="display:inline-block;">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
       width="52"
