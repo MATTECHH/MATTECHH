@@ -10,6 +10,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Software+Engineer+Focused+on+Architecture;Building+Scalable+and+Clean+Systems" />
 </div>
 
+<!-- GITHUB STATS -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="170" />
+</div>
+
 <br/>
 
 <!-- ABOUT -->
@@ -55,10 +60,7 @@ Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código o
 
 <br/>
 
-<!-- GITHUB STATS -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="170" />
-</div>
+
 
 <br/>
 
