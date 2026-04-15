@@ -10,14 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Software+Engineer+Focused+on+Architecture;Building+Scalable+and+Clean+Systems" />
 </div>
 
-<!-- FOCUS -->
-<div align="center">
-
-**FOCO PRINCIPAL**
-
-Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código organizado 📦 • Boas práticas de engenharia 🧠
-
-</div>
 
 <br/>
 
