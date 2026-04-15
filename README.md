@@ -14,7 +14,7 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark" height="250" />
 </div>
 
 <br/>
