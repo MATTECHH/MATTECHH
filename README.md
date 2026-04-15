@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%7C+Software+Engineer;Building+scalable+and+clean+systems;Focused+on+architecture+and+performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Software+Engineer+in+training;Focused+on+clean+architecture+%26+scalability" />
 
 </div>
 
@@ -12,68 +12,39 @@
 
 ## 🧠 About
 
-Comecei na programação aos 14 anos, movido pela curiosidade de entender como sistemas funcionam por trás da interface.
+Desenvolvedor Fullstack focado em **arquitetura, performance e escalabilidade**.
 
-Hoje, aos 18 anos, curso **Ciência da Computação na FIAP 🎓**, enquanto desenvolvo aplicações completas que envolvem frontend, backend e fundamentos de inteligência artificial.
+Atualmente cursando **Ciência da Computação na FIAP 🎓**, construindo sistemas completos com frontend, backend e fundamentos de IA.
 
-Meu foco não está apenas em fazer código funcionar, mas em entender profundamente:
-
-- 📦 Arquitetura de sistemas  
-- 📈 Organização e escalabilidade  
-- ⚙️ Boas práticas de engenharia de software  
-- 🧩 Clareza e manutenção de código  
-
-Construo sistemas como engenharia, não apenas como programação.
+Penso além do código: penso em **estrutura de sistemas**.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Stack
 
-### 🎨 Frontend
-HTML • CSS • React • Tailwind
-
-### 🧠 Backend
-FastAPI • Python • JavaScript • Go • Java
-
-### 🗄️ Database Layer
-MongoDB • Mongoose • Prisma
-
-### 🤖 AI & Data
-Python aplicado à Inteligência Artificial
-
-### 🧰 Dev Tools
-Git • GitHub • Docker
-
-### 🎨 UI/UX Design
-Figma • Design Systems • UX Fundamentals
-
-### 🔐 Security Basics
-Ethical Hacking (fundamentos)
-
-### 📚 CS Foundations
-Algoritmos • Estruturas de Dados • Arquitetura de Software
+Frontend: React • Tailwind • HTML • CSS  
+Backend: FastAPI • Python • Java • Go  
+Database: MongoDB • Prisma  
+Tools: Git • Docker • GitHub  
+AI: Python (IA básica)
 
 ---
 
-## 🧭 Engineering Focus
+## 🧭 Focus
 
-Meu trabalho é guiado por princípios de engenharia de software:
-
-- 📦 Separação clara de responsabilidades (SoC)  
-- 🧱 Arquitetura limpa e escalável  
-- ⚡ Performance como prioridade estrutural  
-- 🧩 Código modular e reutilizável  
-- 🧠 Pensamento sistêmico em vez de código isolado  
-
-Busco construir sistemas que crescem sem perder organização.
+- Arquitetura limpa 🧱  
+- Código escalável 📈  
+- Separação de responsabilidades 📦  
+- Performance ⚡  
+- Sistemas bem estruturados 🧠  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="160"/>
 
 </div>
 
