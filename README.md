@@ -55,28 +55,11 @@
   
 <br/>
 
-<div align="center" style="display: flex; gap: 14px; align-items: center; justify-content: center;">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mateus-monteiro-787874346/" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="38"
-      height="38"
-      alt="linkedin"
-    />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:devteus.officeti@gmail.com">
-    <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
-      width="38"
-      height="38"
-      alt="gmail"
-    />
-  </a>
-
+<div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </div>
 </div>
 
 <br/>
