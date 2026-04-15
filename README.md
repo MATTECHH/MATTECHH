@@ -1,75 +1,50 @@
-<!-- WAVE INICIAL -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=F0EDEE" width="100%" />
 </div>
 
----
+<br/>
 
-<!-- FRASE IMPACTO -->
+<!-- TYPEWRITER TEXT -->
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Software+Engineer+Focused+on+Architecture;Building+Scalable+and+Clean+Systems" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome,+feel+at+home+here;Building+ideas+into+reality;Mateus+%7C+18+years+old+%7C+Fullstack+Developer" />
 </div>
 
----
+<br/>
 
-<!-- GRAFICO / STATS -->
-## 📊 Performance
+<!-- TECH STACK -->
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+  <img width="12" />
 
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+</div>
+
+<br/>
+
+<!-- GITHUB STATS -->
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="160"/>
-
+  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="170" />
 </div>
 
----
+<br/>
 
-<!-- ABOUT -->
-## 🧠 About
-
-Desenvolvedor Fullstack focado em **arquitetura de software, performance e escalabilidade**.
-
-Atualmente cursando **Ciência da Computação na FIAP 🎓**, construindo sistemas completos com frontend, backend e fundamentos de IA.
-
-Penso em sistemas como engenharia, não como código isolado.
-
----
-
-<!-- LADO A LADO -->
-## ⚙️ Stack & 🧭 Focus
-
-<div style="display: flex; justify-content: space-between; gap: 40px;">
-
-<div>
-
-### ⚙️ Stack
-
-Frontend: React • Tailwind • HTML • CSS  
-Backend: FastAPI • Python • Java • Go  
-Database: MongoDB • Prisma  
-Tools: Git • Docker • GitHub  
-AI: Python (IA básica)
-
-</div>
-
-<div>
-
-### 🧭 Focus
-
-- Arquitetura limpa 🧱  
-- Escalabilidade 📈  
-- Separação de responsabilidades 📦  
-- Performance ⚡  
-- Código modular 🧠  
-
-</div>
-
-</div>
-
----
-
-<!-- WAVE FINAL -->
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e293b,100:0f172a&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=F0EDEE" width="100%" />
 </div>
