@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Software+Engineer+Focused+on+Architecture;Building+Scalable+and+Clean+Systems" />
 </div>
 
-
 <br/>
 
 <!-- GITHUB STATS -->
@@ -30,7 +29,7 @@ Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo apl
 
 <br/>
 
-<!-- MAIN STACK (LINHA PRINCIPAL) -->
+<!-- MAIN STACK -->
 <div align="center">
 
 ### ⚡ Principais Tecnologias
@@ -41,60 +40,34 @@ Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo apl
 
 <br/>
 
-<!-- TECH STACK ORGANIZADA -->
-<div align="center">
+<!-- STACK ORGANIZADA (ESQUERDA) -->
 
 ### 🧰 Stack Completa
 
+**Frontend:** HTML • CSS • React • Tailwind  
+**Backend:** FastAPI • Python • JavaScript • Go • Java  
+**Banco de Dados:** MongoDB • Mongoose • Prisma  
+**IA:** Python aplicado à IA  
+**Ferramentas:** Git • GitHub • Docker  
+**Design:** Figma • UI/UX  
+**Segurança:** Ethical Hacking  
+
+<br/>
+
+<!-- FOCUS (ESQUERDA) -->
+
+### 🎯 Foco
+
+🧱 Arquitetura limpa • 📈 Escalabilidade • ⚡ Performance  
+📦 Código organizado • 🧠 Boas práticas de engenharia  
+
+<br/>
+
+<!-- THANK YOU (DESTAQUE) -->
+
+<div align="center">
+  #🧡 Obrigado por visitar meu perfil!
 </div>
-
-<br/>
-
-<div>
-
-**🎨 Frontend**
-- HTML  
-- CSS  
-- React  
-- Tailwind  
-
-**⚙️ Backend**
-- FastAPI  
-- Python  
-- JavaScript  
-- Go  
-- Java  
-
-**🗄️ Banco de Dados**
-- MongoDB  
-- Mongoose  
-- Prisma  
-
-**🧩 Frameworks & Libs**
-- FastAPI  
-- React  
-
-**🤖 Inteligência Artificial**
-- Python aplicado à IA  
-
-**🛠️ Ferramentas & DevOps**
-- Git  
-- GitHub  
-- Docker  
-
-**🎯 Design**
-- Figma  
-- Fundamentos de UI/UX  
-
-**🔐 Segurança**
-- Fundamentos de Ethical Hacking  
-
-</div>
-
-<br/>
-
-
-<br/>
 
 <!-- FOOTER -->
 <div align="center">
