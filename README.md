@@ -12,8 +12,14 @@
 
 </div>
 
-<div align="center"> 
-  Desenvolvedor Fullstack com foco em **arquitetura de software, escalabilidade e boas práticas de engenharia**. Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo aplicações completas com frontend,     backend e fundamentos de IA. 
+<br/>
+
+<!-- ABOUT -->
+<div align="center">
+
+Desenvolvedor Fullstack com foco em **arquitetura de software, escalabilidade e boas práticas de engenharia**.  
+Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo aplicações completas com frontend, backend e fundamentos de IA.
+
 </div>
 
 <br/>
@@ -53,10 +59,15 @@
 <br/>
 
 <!-- FOCUS -->
-<div align="center"> 
-  ### FOCO PRINCIPAL
-  Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código organizado 📦 • Boas práticas de engenharia 🧠 
+<div align="center">
+
+<strong>FOCO PRINCIPAL</strong><br/><br/>
+
+Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código organizado 📦 • Boas práticas de engenharia 🧠
+
 </div>
+
+<br/>
 
 <!-- FOOTER -->
 <div align="center">
