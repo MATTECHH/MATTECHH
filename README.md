@@ -51,9 +51,8 @@
     height="170"
   />
 
-  [![Profile views](https://gpvc.arturio.dev/MATTECHH)
+  <img src="https://gpvc.arturio.dev/MATTECHH" />
 </div>
-
 <br/>
 
 <!-- FOOTER -->
