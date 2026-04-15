@@ -50,28 +50,6 @@
     src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true"
     height="170"
   />
-
-</div>
-  
-<br/>
-
-<!--- contact --->
-<div align="center">
-<table cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-      </a>
-    </td>
-    <td width="20"></td>
-    <td>
-      <a href="mailto:SEUEMAIL@gmail.com">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
-      </a>
-    </td>
-  </tr>
-</table>
 </div>
 
 <br/>
