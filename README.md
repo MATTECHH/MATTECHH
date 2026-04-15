@@ -55,17 +55,27 @@
   
 <br/>
 
-<!-- CONTACT -->
-<div align="center">
+<div align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mateus-monteiro-787874346/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="52"
+      height="40"
+      alt="linkedin logo"
+    />
   </a>
 
+  <!-- Gmail -->
   <a href="mailto:devteus.officeti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="52"
+      height="40"
+      alt="gmail logo"
+    />
   </a>
 </div>
-
 <br/>
 
 <!-- FOOTER -->
