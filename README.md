@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=F0EDEE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=FFA500" width="100%" />
 </div>
 
 <br/>
@@ -50,7 +50,7 @@ Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo apl
 **🦴IA:** Python aplicado à IA  
 **📜Ferramentas:** Git • GitHub • Docker  
 **📷Design:** Figma • UI/UX  
-**🐚Segurança:** Ethical Hacking
+**🐚Segurança:** Ethical Hacking  
 **🧠Fundamentos:** Algoritmos • Estrutura de Dados • Arquitetura de Software  
 
 <br/>
@@ -74,5 +74,5 @@ Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo apl
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=F0EDEE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=FFA500" width="100%" />
 </div>
