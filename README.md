@@ -34,12 +34,12 @@
 <br/>
 
 <!-- GITHUB STATS -->
-<div align="center" display="flex">
+<!-- GITHUB STATS -->
+<div align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MATTECHH&theme=transparent"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MATTECHH&theme=github_dark"
     height="170"
-    style="background-color:#242424; border-radius:10px;"
   />
 
   <img
