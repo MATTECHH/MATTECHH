@@ -44,29 +44,31 @@ Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo apl
 
 ### 🧰 Stack Completa
 
-**Frontend:** HTML • CSS • React • Tailwind  
-**Backend:** FastAPI • Python • JavaScript • Go • Java  
-**Banco de Dados:** MongoDB • Mongoose • Prisma  
-**IA:** Python aplicado à IA  
-**Ferramentas:** Git • GitHub • Docker  
-**Design:** Figma • UI/UX  
-**Segurança:** Ethical Hacking  
+**☁️Frontend:** HTML • CSS • React • Tailwind  
+**🔥Backend:** FastAPI • Python • JavaScript • Go • Java  
+**🌿Banco de Dados:** MongoDB • Mongoose • Prisma  
+**🦴IA:** Python aplicado à IA  
+**📜Ferramentas:** Git • GitHub • Docker  
+**📷Design:** Figma • UI/UX  
+**🐚Segurança:** Ethical Hacking  
 
 <br/>
 
-<!-- FOCUS (ESQUERDA) -->
+<!-- FOCUS CENTRALIZADO -->
+<div align="center">
 
 ### 🎯 Foco
 
-🧱 Arquitetura limpa • 📈 Escalabilidade • ⚡ Performance  
-📦 Código organizado • 🧠 Boas práticas de engenharia  
+🧱 Arquitetura limpa • 📈 Escalabilidade • ⚡ Performance • 📦 Código organizado • 🧠 Boas práticas de engenharia  
+
+</div>
 
 <br/>
 
-<!-- THANK YOU (DESTAQUE) -->
-
+<!-- THANK YOU CENTRALIZADO -->
 <div align="center">
-  #🧡 Obrigado por visitar meu perfil!
+  <h3>🧡 Obrigado por visitar meu perfil!</h3>
+  <span>Construindo com propósito, evoluindo todos os dias 🚀</span>
 </div>
 
 <!-- FOOTER -->
