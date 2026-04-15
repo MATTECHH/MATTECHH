@@ -1,45 +1,4 @@
-<!-- HEADER -->
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=F0EDEE"
-    width="100%"
-  />
-</div>
-
-<br/>
-
-<!-- TYPEWRITER TEXT -->
-<div align="center">
-
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome,+feel+at+home+here;Building+ideas+into+reality;Mateus+%7C+18+years+old+%7C+Fullstack+Developer"
-  />
-
-</div>
-
-<br/>
-
-<!-- TECH STACK -->
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" /><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b&section=header" />
 </div>
 
@@ -122,25 +81,4 @@ Busco construir sistemas que crescem sem perder organização.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e293b,100:0f172a&section=footer" />
-</div>
-</div>
-
-<br/>
-
-<!-- GITHUB STATS -->
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true"
-    height="170"
-  />
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=F0EDEE"
-    width="100%"
-  />
 </div>
