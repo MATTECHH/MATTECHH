@@ -8,7 +8,7 @@
 <!-- TYPEWRITER TEXT -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Software+Engineer+Focused+on+Architecture;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Software+Engineer+in+Training;Focused+on+Clean+Architecture+%26+Scalability" />
 
 </div>
 
@@ -17,47 +17,35 @@
 <!-- ABOUT -->
 <div align="center">
 
-Desenvolvedor Fullstack focado em **arquitetura de software, escalabilidade e performance**.  
-Atualmente cursando **Ciência da Computação na FIAP 🎓**, construindo sistemas completos com frontend, backend e fundamentos de inteligência artificial.
+Desenvolvedor Fullstack com foco em **arquitetura de software, escalabilidade e boas práticas de engenharia**.  
+Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo aplicações completas com frontend, backend e fundamentos de IA.
 
 </div>
 
 <br/>
 
-<!-- GITHUB STATS -->
+<!-- TECH STACK -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="170" />
+<img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+<img width="12" />
 
-</div>
+<img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
+<img width="12" />
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+<img width="12" />
 
-<!-- STACKS -->
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
+<img width="12" />
 
-<img src="https://skillicons.dev/icons?i=js" height="55" />
-<img width="10" />
+<img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
+<img width="12" />
 
-<img src="https://skillicons.dev/icons?i=react" height="55" />
-<img width="10" />
+<img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
+<img width="12" />
 
-<img src="https://skillicons.dev/icons?i=python" height="55" />
-<img width="10" />
-
-<img src="https://skillicons.dev/icons?i=java" height="55" />
-<img width="10" />
-
-<img src="https://skillicons.dev/icons?i=go" height="55" />
-<img width="10" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="55" />
-<img width="10" />
-
-<img src="https://skillicons.dev/icons?i=figma" height="55" />
-<img width="10" />
-
-<img src="https://skillicons.dev/icons?i=git" height="55" />
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
 
 </div>
 
@@ -66,21 +54,17 @@ Atualmente cursando **Ciência da Computação na FIAP 🎓**, construindo siste
 <!-- FOCUS -->
 <div align="center">
 
-**ENGINEERING FOCUS**
+**FOCO PRINCIPAL**
 
-Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código modular 📦 • Boas práticas de engenharia 🧠 • Sistemas bem estruturados 🔧
+Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código organizado 📦 • Boas práticas de engenharia 🧠
 
 </div>
 
 <br/>
 
-<!-- EXTRA SECTION -->
+<!-- GITHUB STATS -->
 <div align="center">
-
-**WORKING PRINCIPLES**
-
-Pensamento sistêmico 🧠 • Organização extrema 📂 • Legibilidade acima de tudo 📖 • Código como produto 🏗️
-
+  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="170" />
 </div>
 
 <br/>
