@@ -10,6 +10,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Software+Engineer+Focused+on+Architecture;Building+Scalable+and+Clean+Systems" />
 </div>
 
+<!-- FOCUS -->
+<div align="center">
+
+**FOCO PRINCIPAL**
+
+Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código organizado 📦 • Boas práticas de engenharia 🧠
+
+</div>
+
+<br/>
+
 <!-- GITHUB STATS -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true" height="170" />
@@ -27,39 +38,68 @@ Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo apl
 
 <br/>
 
-<!-- TECH STACK -->
+<!-- MAIN STACK (LINHA PRINCIPAL) -->
 <div align="center">
 
-### 🧰 Stack
+### ⚡ Principais Tecnologias
 
-<!-- PRINCIPAIS -->
-<img src="https://skillicons.dev/icons?i=js,react,python,mongodb,java,git" height="60" />
-
-<br/><br/>
-
-<!-- COMPLEMENTARES -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,fastapi,go,docker,figma" height="60" />
-
-<br/><br/>
-
-<!-- DATABASE & TOOLS -->
-<img src="https://skillicons.dev/icons?i=prisma" height="60" />
+<img src="https://skillicons.dev/icons?i=react,python,fastapi,js,mongodb,docker" height="60" />
 
 </div>
 
 <br/>
 
-<!-- FOCUS -->
+<!-- TECH STACK ORGANIZADA -->
 <div align="center">
 
-**FOCO PRINCIPAL**
-
-Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código organizado 📦 • Boas práticas de engenharia 🧠
+### 🧰 Stack Completa
 
 </div>
 
 <br/>
 
+<div>
+
+**🎨 Frontend**
+- HTML  
+- CSS  
+- React  
+- Tailwind  
+
+**⚙️ Backend**
+- FastAPI  
+- Python  
+- JavaScript  
+- Go  
+- Java  
+
+**🗄️ Banco de Dados**
+- MongoDB  
+- Mongoose  
+- Prisma  
+
+**🧩 Frameworks & Libs**
+- FastAPI  
+- React  
+
+**🤖 Inteligência Artificial**
+- Python aplicado à IA  
+
+**🛠️ Ferramentas & DevOps**
+- Git  
+- GitHub  
+- Docker  
+
+**🎯 Design**
+- Figma  
+- Fundamentos de UI/UX  
+
+**🔐 Segurança**
+- Fundamentos de Ethical Hacking  
+
+</div>
+
+<br/>
 
 
 <br/>
