@@ -9,7 +9,7 @@
 <br/>
 
 <!-- TECH STACK -->
-<div align="center">
+<div align="center" >
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
   <img width="12" />
 
@@ -34,7 +34,7 @@
 <br/>
 
 <!-- GITHUB STATS -->
-<div align="center">
+<div align="center" display="flex">
     <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MATTECHH&theme=radical"
     height="170"
