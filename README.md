@@ -55,27 +55,25 @@
   
 <br/>
 
-<div align="center">
+<div align="center" style="display: flex; gap: 14px; align-items: center; justify-content: center;">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mateus-monteiro-787874346/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="52"
-      height="40"
-      alt="linkedin logo"
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="38"
+      height="38"
+      alt="linkedin"
     />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
 
   <!-- Gmail -->
   <a href="mailto:devteus.officeti@gmail.com">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-      width="52"
-      height="40"
-      alt="gmail logo"
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="38"
+      height="38"
+      alt="gmail"
     />
   </a>
 
