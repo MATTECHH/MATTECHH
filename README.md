@@ -12,6 +12,10 @@
 
 </div>
 
+<div align="center"> 
+  Desenvolvedor Fullstack com foco em **arquitetura de software, escalabilidade e boas práticas de engenharia**. Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo aplicações completas com frontend,     backend e fundamentos de IA. 
+</div>
+
 <br/>
 
 <!-- GITHUB STATS -->
