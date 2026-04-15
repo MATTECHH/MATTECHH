@@ -52,6 +52,11 @@
 
 <br/>
 
+<!-- FOCUS -->
+<div align="center"> 
+  **FOCO PRINCIPAL** Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código organizado 📦 • Boas práticas de engenharia 🧠 
+</div>
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=F0EDEE" width="100%" />
