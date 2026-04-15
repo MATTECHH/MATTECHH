@@ -8,7 +8,7 @@
 <!-- TYPEWRITER TEXT -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Software+Engineer+in+Training;Focused+on+Clean+Architecture+%26+Scalability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome,+feel+at+home+here;Building+ideas+into+reality;Mateus+%7C+18+years+old+%7C+Fullstack+Developer" />
 
 </div>
 
