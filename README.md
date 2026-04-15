@@ -14,7 +14,7 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark" height="250" />
+  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&background=242424&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideLabels=FFFFFF&dates=AAAAAA" height="250" />
 </div>
 
 <br/>
