@@ -54,7 +54,7 @@
 
 <!-- FOCUS -->
 <div align="center"> 
-  ###FOCO PRINCIPAL
+  ### FOCO PRINCIPAL
   Arquitetura limpa 🧱 • Escalabilidade 📈 • Performance ⚡ • Código organizado 📦 • Boas práticas de engenharia 🧠 
 </div>
 
