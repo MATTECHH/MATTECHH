@@ -60,7 +60,7 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mateus-monteiro-787874346/" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       width="52"
       height="40"
       alt="linkedin logo"
@@ -69,13 +69,13 @@
 
   &nbsp;&nbsp;&nbsp;
 
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/" target="_blank">
+  <!-- Gmail -->
+  <a href="mailto:devteus.officeti@gmail.com">
     <img
-      src="https://cdn.simpleicons.org/youtube/FF0000"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
       width="52"
       height="40"
-      alt="youtube logo"
+      alt="gmail logo"
     />
   </a>
 
