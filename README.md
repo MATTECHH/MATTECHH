@@ -50,9 +50,8 @@
     src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true"
     height="170"
   />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=MATTECHH&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
+
 <br/>
 
 <!-- FOOTER -->
