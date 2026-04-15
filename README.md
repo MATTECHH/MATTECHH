@@ -50,7 +50,8 @@ Atualmente cursando **Ciência da Computação na FIAP 🎓**, desenvolvendo apl
 **🦴IA:** Python aplicado à IA  
 **📜Ferramentas:** Git • GitHub • Docker  
 **📷Design:** Figma • UI/UX  
-**🐚Segurança:** Ethical Hacking  
+**🐚Segurança:** Ethical Hacking
+**🧠Fundamentos:** Algoritmos • Estrutura de Dados • Arquitetura de Software  
 
 <br/>
 
