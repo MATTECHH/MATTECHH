@@ -50,6 +50,8 @@
     src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&hide_border=true"
     height="170"
   />
+
+  [![Profile views](https://gpvc.arturio.dev/MATTECHH)
 </div>
 
 <br/>
