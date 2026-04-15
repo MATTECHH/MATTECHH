@@ -38,7 +38,7 @@
 <div align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MATTECHH&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MATTECHH&theme=dark"
     height="170"
   />
 
