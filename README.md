@@ -15,12 +15,12 @@
 </div>
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
+<div align="center">
   <a href="https://www.linkedin.com/in/mateus-monteiro-787874346/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
 
   <a href="mailto:devteus.officeti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 </div>
