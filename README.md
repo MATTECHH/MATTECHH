@@ -57,8 +57,7 @@
 
 <!--- contact --->
 <div align="center">
-
-<table>
+<table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
@@ -73,7 +72,6 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 <br/>
