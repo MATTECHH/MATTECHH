@@ -45,13 +45,12 @@ Atualmente cursando **ADS na FIAP 🎓**, desenvolvendo aplicações completas c
 ### 🧰 Stack Completa
 
 **☁️Frontend:** HTML • CSS • React • Tailwind  
-**🔥Backend:** FastAPI • Python • JavaScript • Go • Java  
+**🔥Backend:** FastAPI • Python • JavaScript
 **🌿Banco de Dados:** MongoDB • Mongoose • Prisma  
 **🦴IA:** Python aplicado à IA  
-**📜Ferramentas:** Git • GitHub • Docker  
-**📷Design:** Figma • UI/UX  
-**🐚Segurança:** Ethical Hacking  
-**🧠Fundamentos:** Algoritmos • Estrutura de Dados • Arquitetura de Software  
+**📜Ferramentas:** Git • GitHub
+**📷Design:** Figma • UI/UX
+**🧠Fundamentos:** Algoritmos • Estrutura de Dados • Arquitetura de Software etc
 
 <br/>
 
