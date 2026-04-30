@@ -49,7 +49,7 @@ Atualmente cursando **ADS na FIAP 🎓**, desenvolvendo aplicações completas c
 **🌿Banco de Dados:** MongoDB • Mongoose • Prisma  
 **🦴IA:** Python aplicado à IA  
 **📜Ferramentas:** Git • GitHub
-**📷Design:** Figma • UI/UX
+**📷Design:** Figma • UI/UX.       
 **🧠Fundamentos:** Algoritmos • Estrutura de Dados • Arquitetura de Software etc
 
 <br/>
