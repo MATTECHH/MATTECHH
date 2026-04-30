@@ -34,7 +34,7 @@ Atualmente cursando **ADS na FIAP 🎓**, desenvolvendo aplicações completas c
 
 ### ⚡ Principais Tecnologias
 
-<img src="https://skillicons.dev/icons?i=react,python,fastapi,js,mongodb,docker" height="60" />
+<img src="https://skillicons.dev/icons?i=react,python,fastapi,js,mongodb,figma" height="60" />
 
 </div>
 
